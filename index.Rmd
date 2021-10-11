@@ -57,7 +57,7 @@ class: center middle
 ## [R/Medicine2021の発表](https://github.com/tgerke/ggconsort-talk) が元ネタです。
 
 - 本スライドは冗長気味に書いたので、ぜひ元ネタの方もご覧ください。
-- [sample_code.R](sample_code.R)に今回使用したサンプルコードを入れたので実際に動かしてみてください
+- [sample_code.R](https://github.com/nissinbo/ggconsort_introduction/blob/master/sample_code.R)に今回使用したサンプルコードを入れたので実際に動かしてみてください
 
 ---
 
